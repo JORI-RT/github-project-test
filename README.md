@@ -1,3 +1,3 @@
 # github-project-test
 
-fuga
+fuga hoge
